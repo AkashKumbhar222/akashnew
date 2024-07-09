@@ -10,4 +10,8 @@ else:
 OUTPUT:-
 b is greater than a
 
+#timepass
+a=2
+print (2)
+
    
